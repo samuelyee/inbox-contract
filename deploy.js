@@ -5,6 +5,7 @@ const { abi, evm } = require('./compile');
 
 const mnemonic = '';
 const endpoint = 'https://rinkeby.infura.io/v3/PROJECT-ID';
+
 const provider = new HDWalletProvider(mnemonic, endpoint); 
 
 const web3 = new Web3(provider);

@@ -13,3 +13,6 @@ The contract is to be deployed to the Rinkeby network via Infura API. Some pre-r
 
 ## Deployed Contract
  The first contract is deployed to `0x29Be257A5524DD54589e46F467424b0699207832` using account address `0xCFdef1F369da350481CE135fd3AC494c6ABb6051`.
+
+ ## Contract Interaction
+ No frontend app has been written yet. Use 'Remix' to interact with the deployed contract by loading its address mentioned above.
