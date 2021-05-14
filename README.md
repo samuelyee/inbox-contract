@@ -1,5 +1,5 @@
-# ethereum-inbox project
-For me to follow the Udemy's "Ethereum and Solidity: The Complete Developer's Guide". However, the course is using an old Solidity version of 0.4.17 and current is now 0.8.x. I have commented the old code and mapped it over to the newer Solidity 0.8.x.
+# Inbox project
+For me to follow the first inbox project in the Udemy's "Ethereum and Solidity: The Complete Developer's Guide". However, the course is using an old Solidity version of 0.4.17 and current is now 0.8.x. I have commented the old code and mapped it over to the newer Solidity 0.8.x.
 
 ## Unit Test
 Take note of the `test\Inbox.test.js`, which is important to test the smart contract before deploying. Test run it using `npm run test`
